@@ -1,10 +1,9 @@
 const playlist = {
   artistName: 'Drake',
-  songTitles: ':Life is Good'
+  songTitle: ':Life is Good'
 };
 
-function updatePlaylist(playlist, artist, song) {
-  playlist.song = newSong 
-  playlist.artist = newArtist
+function updatePlaylist(playlist, artistName, songTitle) {
+  playlist.artistName = songTitle 
   return playlist 
 }
