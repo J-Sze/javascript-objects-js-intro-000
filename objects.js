@@ -1,6 +1,6 @@
 const playlist = {
   artistName: 'Drake',
-  songTitle: ':Life is Good'
+  songTitle: 'Life is Good'
 };
 
 function updatePlaylist(playlist, artistName, songTitle) {
