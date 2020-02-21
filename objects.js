@@ -4,7 +4,7 @@ const playlist = {
 };
 
 function updatePlaylist(playlist, artist, song) { 
-  playlist[artist]= song 
+  playlist.artistName = song 
   return playlist
   
   
