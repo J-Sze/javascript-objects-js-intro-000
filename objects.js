@@ -1,4 +1,4 @@
 const playlist = {
-  artistNames: 
-  songTitles: 
+  artistNames: "",
+  songTitles: ""
 }
